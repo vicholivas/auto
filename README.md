@@ -32,7 +32,7 @@ $ Duplo clique no arquivo de instalação > Clicar em Next até a finalização
 ```bash
 $ Após download, acesse a pasta do projeto utilizando seu prompt de comando favorito
 $ Execute o comando bundle install -> Senta a mão no enter
-$ Após instalação das gems, basta escolher qual cenário deseja executar e dar o comando bom case na tag de cada cenário.
+$ Após instalação das gems, basta escolher qual cenário deseja executar e dar o comando bom base na tag de cada cenário.
 $ Os arquivos na pasta "spec", ao visualiza-los basta identificar a tag que consta documentada em cada arquivo.
 $ Exemplo do comando rspec --tag @lotio (Irá executar apenas o cenário de teste do Local Abastecimento)
 $ Caso prefira efetuar toda instalaçâo do começo apenas siga o passo a passo abaixo.
